@@ -4,4 +4,8 @@ Made on Linux AMD PC
 Part from Video made by Nana based on the part on NodeJS
 
 ...
-Changes made with GitHub.
+Changes made with GitHub :-)
+
+docker build -t node-app:1.0 .
+
+docker run -d -p 3000:3000 node-app:1.0
