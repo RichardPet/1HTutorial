@@ -3,8 +3,8 @@ YT: https://www.youtube.com/watch?v=pg19Z8LL06w&t=3599s
 Made on Linux AMD PC
 Part from Video made by Nana based on the part on NodeJS
 
-...
-Changes made with GitHub :-)
+Remember to run npm install when cloning repository to new PC
+due to .gitignore
 
 docker build -t node-app:1.0 .
 
